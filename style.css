@@ -7,12 +7,12 @@
 }
 
 body{
-    background: #5e17eb;
+    background:  #323234;
 }
 
 ::selection{
     color: #fff;
-    background: #5e17eb;
+    background: #323234;
 }
 
 .start_btn,
